@@ -21,18 +21,18 @@
   <distributionManagement>
     <snapshotRepository>
       <id>artifact-registry</id>
-      <url>https://us-central1-maven.pkg.dev/yawenluo-cloud-test/better-java-repo</url>
+      <url>https://us-central1-maven.pkg.dev/gcb-catalog-experiment/better-java-repo</url>
     </snapshotRepository>
     <repository>
       <id>artifact-registry</id>
-      <url>https://us-central1-maven.pkg.dev/yawenluo-cloud-test/better-java-repo</url>
+      <url>https://us-central1-maven.pkg.dev/gcb-catalog-experiment/better-java-repo</url>
     </repository>
   </distributionManagement>
 
   <repositories>
     <repository>
       <id>artifact-registry</id>
-      <url>https://us-central1-maven.pkg.dev/yawenluo-cloud-test/better-java-repo</url>
+      <url>https://us-central1-maven.pkg.dev/gcb-catalog-experiment/better-java-repo</url>
       <releases>
         <enabled>true</enabled>
       </releases>
